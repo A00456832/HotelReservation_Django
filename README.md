@@ -9,7 +9,7 @@ By Imtiyaz Shaikh (A00456832)
 The hotel reservation app provides one get, one post api to getch and insert the hotel details in the database.
 During implementation, developer has used the development MYSQL server, the connection is established using ssh tunnel.
 
-## Complxity:
+## Complexity:
 1. The model calculates the 'finalCost' and then inserts into the database. Formula: finalCost = price * noDaysBooked
 2. The 'id' column in auto-incrmented in the MySQL table.
 3. Exception handling is done for error 404 and 500.
