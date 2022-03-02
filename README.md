@@ -16,7 +16,7 @@ During implementation, developer has used the development MYSQL server, the conn
 
 **_Screencapture are provided in the 'screenshots' directory._**
 
-## POST:
+## GET:
 **1. To fetch the details of all the hotels**
 http://127.0.0.1:8000/app/hotel_list/
 
